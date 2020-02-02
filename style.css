@@ -6,7 +6,7 @@ font-family: 微軟正黑體;
 
 }
 nav{
-    background: yellow;
+    background: #f9c300;
     display: flex;
     justify-content: space-between;
     padding: 20px;
@@ -43,13 +43,13 @@ nav ol li a{
 }
 
 section h1{
-color: yellow;
+color:#f9c300;
 font-size: 32px;
 text-align: center;
 padding: 50px 0;
 }
 
-#month, #partner{
+#month, #partner, #news{
     width: 1000px;
     margin: 0 auto;
 }
@@ -60,7 +60,7 @@ padding: 50px 0;
 }
 
 footer{
-    background: yellow;
+    background: #f9c300;
     color: #ffffff;
     padding: 50px 0;
     text-align: center;
